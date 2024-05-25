@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1684782212 source:c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\gauss.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"structmatrix.h"
+	"operationsmatrix.h"
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\structmatrix.h
+	<stdio.h>
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\operationsmatrix.h
+
+1685183086 source:c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"structmatrix.h"
+	"operationsmatrix.h"
+	"Gauss.h"
+	"MatrixNorma.h"
+	"MatrixExp.h"
+	<locale.h>
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\gauss.h
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\matrixnorma.h
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\matrixexp.h
+
+1684782212 source:c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\matrixexp.c
+	"structmatrix.h"
+	"operationsmatrix.h"
+	"MatrixNorma.h"
+
+1685183086 source:c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\matrixnorma.c
+	<stdio.h>
+	<math.h>
+	"operationsmatrix.h"
+	"structmatrix.h"
+
+1684782212 source:c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\operationsmatrix.c
+	<stdlib.h>
+	"structmatrix.h"
+
+1685181093 source:c:\users\Аня\desktop\СПБГУ\ИНФА\Лабы\Матрицы\structmatrix.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1684782212 source:c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\gauss.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"structmatrix.h"
+	"operationsmatrix.h"
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\structmatrix.h
+	<stdio.h>
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\operationsmatrix.h
+
+1685183086 source:c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"structmatrix.h"
+	"operationsmatrix.h"
+	"Gauss.h"
+	"MatrixNorma.h"
+	"MatrixExp.h"
+	<locale.h>
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\gauss.h
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\matrixnorma.h
+
+1684782212 c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\matrixexp.h
+
+1684782212 source:c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\matrixexp.c
+	"structmatrix.h"
+	"operationsmatrix.h"
+	"MatrixNorma.h"
+
+1685183086 source:c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\matrixnorma.c
+	<stdio.h>
+	<math.h>
+	"operationsmatrix.h"
+	"structmatrix.h"
+
+1685195653 source:c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\operationsmatrix.c
+	<stdlib.h>
+	"structmatrix.h"
+
+1685195653 source:c:\users\Аня\desktop\СПБГУ\ИНФА (прога 1-3 сем всё)\Лабы\Матрицы\structmatrix.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1716577234 source:c:\users\user1\desktop\Матрицы\gauss.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"structmatrix.h"
+	"operationsmatrix.h"
+
+1716577234 c:\users\user1\desktop\Матрицы\structmatrix.h
+	<stdio.h>
+
+1716577234 c:\users\user1\desktop\Матрицы\operationsmatrix.h
+
+1716577234 source:c:\users\user1\desktop\Матрицы\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"structmatrix.h"
+	"operationsmatrix.h"
+	"Gauss.h"
+	"MatrixNorma.h"
+	"MatrixExp.h"
+	<locale.h>
+
+1716577234 c:\users\user1\desktop\Матрицы\gauss.h
+
+1716577234 c:\users\user1\desktop\Матрицы\matrixnorma.h
+
+1716577234 c:\users\user1\desktop\Матрицы\matrixexp.h
+
+1716577234 source:c:\users\user1\desktop\Матрицы\matrixexp.c
+	"structmatrix.h"
+	"operationsmatrix.h"
+	"MatrixNorma.h"
+
+1716577234 source:c:\users\user1\desktop\Матрицы\matrixnorma.c
+	<stdio.h>
+	<math.h>
+	"operationsmatrix.h"
+	"structmatrix.h"
+
+1716577234 source:c:\users\user1\desktop\Матрицы\operationsmatrix.c
+	<stdlib.h>
+	"structmatrix.h"
+
+1716577234 source:c:\users\user1\desktop\Матрицы\structmatrix.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
